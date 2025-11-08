@@ -11,3 +11,4 @@ Submissions of all problem statement solutions.
 | Team Name | Project Link |
 |------------|---------------|
 | Sample | [Do not edit this](https://example.com) |
+| CodeX  | https://github.com/aryamansingh04/SwapX |
